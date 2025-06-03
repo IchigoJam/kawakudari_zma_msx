@@ -1,4 +1,4 @@
-# kawakudari for MSX with ZMA
+# kawakudari for MSX with zma
 
 - kawakudari for MSX with [zma](https://github.com/hra1129/zma)
 - run on [MIX](https://github.com/ichigojam/MIX)
@@ -33,6 +33,7 @@ deno --allow-read --allow-import https://ichigojam.github.io/MIX/rom2sh.js mix.r
 
 - [zma](https://github.com/hra1129/zma)
 ```sh
+git clone https://github.com/hra1129/zma.git
 cd src/linux
 make
 ls -l zma
