@@ -31,5 +31,5 @@ puts:
   jr puts
 
 message:
-  db "Hello! MSX with ZMA"
+  db "Hello! MSX with zma"
   db 13, 10, 0
